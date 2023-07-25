@@ -1,0 +1,25 @@
+body {
+font-family:Georgia, serif;
+font-size: 100%
+margin:0 15% 0;
+text-align:center;
+background:#e8ca9e url(Catpreservebackground.png) no-repeat center 100px fixed;
+}
+a {
+text-decoration:none;
+}
+h1 {
+font: bold 1.5em Gerogia, serif; 
+color:#331f01
+} 
+h2 {
+font: Georgia, serif;
+color:#754202;
+}
+footer {
+background:#a69785;
+}
+
+a:link {color:#a62c03}
+a:focus, a:hover {color:#c93300; background-color:#8f7d67;}
+a:active {color:#8c6f4c}
