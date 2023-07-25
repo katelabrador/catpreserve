@@ -1,6 +1,5 @@
 body {
 font-family:Georgia, serif;
-    font-color:#ffffff
 font-size: 100%
 margin:0 15% 0;
 text-align:center;
@@ -19,6 +18,10 @@ color:#754202;
 }
 footer {
 background:#a69785;
+}
+P {
+    font-family:Georgia, serif;
+    color:#fff
 }
 
 a:link {color:#a62c03}
